@@ -9,6 +9,9 @@ export const metadata = {
     "焼き鳥とお酒 鳥拓 那覇 居酒屋は、那覇市安里・牧志駅徒歩5分の焼き鳥居酒屋。塩つくね、博多ゴマサバ、日本酒を楽しめます。営業時間17:00〜翌1:00。予約・アクセス・店舗情報をご案内します。",
   alternates: { canonical: "/" },
   robots: { index: true, follow: true },
+  verification: {
+    google: "ayHXvvh7MAYyEd0yabm5xYrI98qeN_1bfcLkvUPkbrM",
+  },
   openGraph: {
     title: "焼き鳥とお酒 鳥拓 那覇 居酒屋",
     description:
